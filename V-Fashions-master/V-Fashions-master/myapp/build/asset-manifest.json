@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8264454e.css",
+    "main.js": "/static/js/main.25527a4e.js",
+    "static/media/Floral-shirt-2.jpg": "/static/media/Floral-shirt-2.7da6d9409982195b6961.jpg",
+    "static/media/Floral-shirt-1.jpg": "/static/media/Floral-shirt-1.6b5ecad3bcd7f7ebf4d6.jpg",
+    "static/media/hoodie1.jpg": "/static/media/hoodie1.10a4248f40b702baee8f.jpg",
+    "static/media/Denim-1.jpg": "/static/media/Denim-1.01a324473a239713a5bd.jpg",
+    "static/media/Denim-2.jpg": "/static/media/Denim-2.cdc51cfaa3da6f515793.jpg",
+    "static/media/googleLogo.png": "/static/media/googleLogo.7dbc7ea39eb97007c7f4.png",
+    "static/media/oversized-1.jpg": "/static/media/oversized-1.2636c3dc029a1644f0e1.jpg",
+    "static/media/corgo-1.jpg": "/static/media/corgo-1.4f0650cc7eb40cc3f329.jpg",
+    "static/media/corgo-2.jpg": "/static/media/corgo-2.a375cebaad2aaa5d3b92.jpg",
+    "static/media/oversized-2.jpg": "/static/media/oversized-2.ef5c69709157f6e15fc2.jpg",
+    "index.html": "/index.html",
+    "main.8264454e.css.map": "/static/css/main.8264454e.css.map",
+    "main.25527a4e.js.map": "/static/js/main.25527a4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8264454e.css",
+    "static/js/main.25527a4e.js"
+  ]
+}

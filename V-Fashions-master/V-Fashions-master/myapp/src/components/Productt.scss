@@ -1,0 +1,23 @@
+@import "../Products/Product/mixins.scss";
+.main-content {
+        max-width: calc(100% - 20px);
+        margin: 0 auto;
+        @include md {
+            max-width: 1200px;
+        }
+    }
+.adding{
+    margin-top: 4rem;
+    display: flex;
+    gap: 4rem;
+}
+.quantity{
+    width: 10%;
+    font-size: 0.875rem /* 14px */;
+    line-height: 1.25rem /* 20px */;
+}
+.buttons{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
